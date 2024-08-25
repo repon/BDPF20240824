@@ -28,4 +28,4 @@ coverage
 *.sw?
 
 *.tsbuildinfo
-Node.gitignore
+*storybook.log
